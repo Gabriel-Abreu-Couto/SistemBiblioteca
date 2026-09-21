@@ -42,3 +42,10 @@ Após iniciar o aplicativo, o usuário poderá:
 6. Receber sugestões de livros semelhantes aos que já foram emprestados anteriormente.
 
 O sistema tem como finalidade facilitar a navegação pela biblioteca e ajudar os alunos a encontrar novas obras de acordo com seus interesses de leitura.
+
+
+## Imagens 
+
+Logo embaixo estará uma demonstração de como a pagina ira ser:
+
+          https://canva.link/pfgfv6oorn6av6z
