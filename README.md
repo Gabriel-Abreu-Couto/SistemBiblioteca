@@ -48,4 +48,4 @@ O sistema tem como finalidade facilitar a navegação pela biblioteca e ajudar o
 
 Logo embaixo estará uma demonstração de como a pagina ira ser:
 
-          https://canva.link/pfgfv6oorn6av6z
+<img width="749" height="420" alt="image" src="https://github.com/user-attachments/assets/da0cc578-2b67-4b85-9a82-3d87bdbbc6e1" />
